@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello to you, reader!👋
+I am currently studying Games Engineering and working as a Mobile App Developer.
+On Github I have a few fun projects I do mostly in my free time!
 <!--
 **Supergoldapfel/Supergoldapfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
